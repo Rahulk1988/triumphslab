@@ -1,4 +1,4 @@
-# triumphslab
+# Triumphslab
 ## DevOps Batch Morn 6:00 - 7:00
 ### Tools
 1. **Linux** 
@@ -7,4 +7,5 @@
 4. Terraform
 5. Docker
 6. Kubernetes
+7. Sonarcloud
 
