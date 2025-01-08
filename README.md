@@ -5,7 +5,7 @@
 2. *Git and github*
 3. Azure DevOps
 4. Terraform
-5. Docker
+5. Python
 6. Kubernetes
 7. Sonarcloud
 
